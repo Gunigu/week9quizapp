@@ -1,0 +1,24 @@
+#quiz{
+	margin-left: 10%;
+	margin-top: 30px;
+}
+
+.resultButton{
+	background-color: green;
+    color: white;
+    border-radius: 5px;
+    margin-left: 10%;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+#results{
+   margin-left: 10%;
+}
+
+.question{
+	font-weight: 600;
+}
+.answers {
+    margin-bottom: 20px;
+}
